@@ -1,6 +1,6 @@
 package com.company;
 
-public class Triangle extends Shape{
+public class Triangle extends Shape {
 
   @Override
   void print() {

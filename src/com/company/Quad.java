@@ -1,6 +1,6 @@
 package com.company;
 
-public class Quad extends Shape{
+public class Quad extends Shape {
 
   @Override
   void print() {

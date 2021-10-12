@@ -1,6 +1,6 @@
 package com.company;
 
-public class Trapezoid extends Shape{
+public class Trapezoid extends Shape {
 
   @Override
   void print() {
